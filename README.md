@@ -2,8 +2,6 @@
 
 > **YOLOv8s fine-tuned on self-driving traffic data — achieving mAP50 of 0.66 across 10 object classes in ~59 minutes of training on NVIDIA L4 GPU.**
 
-This project is developed as part of the TEEP (Taiwan Experience Education Program) selection process at Tatung University, under the supervision of Prof. Chu Shou Yang. It demonstrates the application of transfer learning and real-time object detection for automotive vision systems — directly relevant to camera module and Around View Monitor (AVM) development at REC Technology Corporation.
-
 ---
 
 ## Demo Results
